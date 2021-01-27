@@ -23,12 +23,12 @@ debug = False
 verify_cert = False
 
 # 全局变量
-user = "USERNAME"
-passwd = "PASSWORD"
+user = "yinpengqi18@mails.ucas.ac.cn"
+passwd = "43030220010415377X"
 api_key = "API_KEY"
 
-smtp_port = "SMTP_PORT"
-smtp_server = "SMTP_SERVER"
+smtp_port = "465"
+smtp_server = "smtp.qq.com"
 sender_email = "SENDER_EMAIL"
 sender_email_passwd = "SENDER_EMAIL_PASSWD"
 receiver_email = "RECEIVER_EMAIL"
